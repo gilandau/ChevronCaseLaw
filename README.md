@@ -2,7 +2,7 @@
 
 ## Articles Directory:
 	Contains three files for each Chevron case
-<Case Id>.txt – contains the text of the judgement
+\<Case Id\>.txt – contains the text of the judgement
 <Case Id>_meta.txt – contains a list of citations that the case makes
 <Case Id>_struct.txt – contains the structure of the judgement
 
