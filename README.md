@@ -42,11 +42,12 @@
 	Contains a number of functions that analyze the law texts:
 
 flatten() – flattens the Article directory into a new directory
-		average_length() – gets the length of the shortest judgement as well as the average length of the judgements and the median length of them
+		
+average_length() – gets the length of the shortest judgement as well as the average length of the judgements and the median length of them
 
 footnotes() – operates on meta text files and examines the number of footnote, references, and outside citations in a text, as well as some meaningful statisitics
 
-## find_statutes() – attempts to find all the l2 and l3 statutes referenced in the raw texts of the judgements. Stores them in the relevant statute file and returns some meaningful statistics.
+find_statutes() – attempts to find all the l2 and l3 statutes referenced in the raw texts of the judgements. Stores them in the relevant statute file and returns some meaningful statistics.
 		
 
 ## case_analysis_parser.py: 
